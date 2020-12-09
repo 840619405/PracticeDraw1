@@ -9,6 +9,7 @@ HenCoder 绘制 1 练习项目
 
 ### 作业截图
 
-![1607501836604](D:\android\PracticeDraw1\assets\1607501836604.png)
+![1607501836604](images/1607501836604.png)
 
-![1607501866209](D:\android\PracticeDraw1\assets\1607501866209.png)
+![1607501866209](images/1607501866209.png)
+
